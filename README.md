@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>RESUME</title>
@@ -110,7 +110,7 @@
 
     </tr>
   </table>
-</div>  
+
 
 
 </body>
